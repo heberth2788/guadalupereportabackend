@@ -1,0 +1,1 @@
+console.log("Hello world from console from a different js file")
