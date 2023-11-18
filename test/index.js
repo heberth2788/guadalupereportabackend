@@ -25,3 +25,17 @@ console.log(`2. ${valor1}`)
 /// Symbol
 var sim = Symbol(`NodeJS`) 
 console.log(sim)
+
+/// Operators: +, -, * , /, ** (Exponentiation), %, ++, --
+
+/// Conditions: if, else if, else, ?:
+var x1 = 10
+var x2 = 20
+//console.log(`\n`)
+console.log(x1 == x2 ? `Are equal` : `Are differents`) 
+
+/// Logical operators: !a (NOT), a && b (AND), a || b (OR)
+
+
+
+
