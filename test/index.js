@@ -36,6 +36,14 @@ console.log(x1 == x2 ? `Are equal` : `Are differents`)
 
 /// Logical operators: !a (NOT), a && b (AND), a || b (OR)
 
+/// Arrays
+var numbers = Array()
 
 
+// split
+function sum(num1, num2) {
+    return num1 + num2
+}
+
+console.log(`8 + 9 = ${sum(8, 9)}`)
 
