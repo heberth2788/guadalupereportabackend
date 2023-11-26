@@ -1,5 +1,6 @@
+<!-- file in markdown format : .md -->
 # Guadalupe Reporta Backend
-Backend wrote in NodeJS  for Guadalupe reporta app for Android and iOS.
+Backend wrote in NodeJS  for "Guadalupe reporta" app for Android and iOS.
 
 ## Software utilizado
 * NodeJS.
