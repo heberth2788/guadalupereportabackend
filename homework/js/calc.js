@@ -53,18 +53,18 @@ let op1 = Number(prompt(`op1 = `));
 let op2 = Number(prompt(`op2 = `));
 let op = prompt(`+, -, *, /, ** = `);
 
-let res = 0
+let res = 0;
 
 if(op == `+`)
-    res = add(op1, op2)
+    res = add(op1, op2);
 else if(op == `-`) 
-    res = sub(op1, op2)
+    res = sub(op1, op2);
 else if(op == `*`) 
-    res = mul(op1, op2)
+    res = mul(op1, op2);
 else if(op == `/`) 
-    res = div(op1, op2)
+    res = div(op1, op2);
 else if(op == `**`) 
-    res = exp(op1, op2)
+    res = exp(op1, op2);
 else 
     console.log(`operation not supported`)
 
